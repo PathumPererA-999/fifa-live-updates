@@ -1,0 +1,44 @@
+name: Update FIFA 2026 Live Data
+
+on:
+  schedule:
+    # Every 30 minutes during tournament window (June–July 2026)
+    - cron: '*/30 * * * *'
+  # Allow manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    # Only run during tournament period to save Actions minutes
+    # Remove this if-block if you want it to always run
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch latest match data
+        env:
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+        run: python fetch_scores.py
+
+      - name: Commit and push updated data.json
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "FIFA Live Bot"
+          git add data.json
+          # Only commit if data.json actually changed
+          if git diff --staged --quiet; then
+            echo "No changes to data.json — skipping commit"
+          else
+            git commit -m "🤖 Live update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
