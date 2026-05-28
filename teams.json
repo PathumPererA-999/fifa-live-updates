@@ -1,0 +1,3797 @@
+{
+  "last_updated": "2026-05-28T00:00:00Z",
+  "teams": {
+    "Argentina": {
+      "flag": "🇦🇷",
+      "group": "J",
+      "fifa_ranking": 1,
+      "manager": "Lionel Scaloni",
+      "formation": "4-3-3",
+      "wc_titles": 3,
+      "wc_appearances": 18,
+      "best_result": "Winners 2022",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Emiliano Martínez",
+          "pos": "GK",
+          "rating": 87,
+          "age": 33
+        },
+        {
+          "name": "Nahuel Molina",
+          "pos": "RB",
+          "rating": 81,
+          "age": 28
+        },
+        {
+          "name": "Cristian Romero",
+          "pos": "CB",
+          "rating": 85,
+          "age": 27
+        },
+        {
+          "name": "Nicolás Otamendi",
+          "pos": "CB",
+          "rating": 82,
+          "age": 38
+        },
+        {
+          "name": "Marcos Acuña",
+          "pos": "LB",
+          "rating": 81,
+          "age": 35
+        },
+        {
+          "name": "Rodrigo De Paul",
+          "pos": "CM",
+          "rating": 84,
+          "age": 32
+        },
+        {
+          "name": "Enzo Fernández",
+          "pos": "CM",
+          "rating": 85,
+          "age": 25
+        },
+        {
+          "name": "Alexis Mac Allister",
+          "pos": "CM",
+          "rating": 84,
+          "age": 27
+        },
+        {
+          "name": "Lionel Messi",
+          "pos": "RW",
+          "rating": 90,
+          "age": 38
+        },
+        {
+          "name": "Lautaro Martínez",
+          "pos": "ST",
+          "rating": 87,
+          "age": 28
+        },
+        {
+          "name": "Julián Álvarez",
+          "pos": "LW",
+          "rating": 85,
+          "age": 26
+        }
+      ]
+    },
+    "France": {
+      "flag": "🇫🇷",
+      "group": "I",
+      "fifa_ranking": 2,
+      "manager": "Didier Deschamps",
+      "formation": "4-2-3-1",
+      "wc_titles": 2,
+      "wc_appearances": 16,
+      "best_result": "Winners 2018",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Mike Maignan",
+          "pos": "GK",
+          "rating": 86,
+          "age": 30
+        },
+        {
+          "name": "Jules Koundé",
+          "pos": "RB",
+          "rating": 85,
+          "age": 27
+        },
+        {
+          "name": "William Saliba",
+          "pos": "CB",
+          "rating": 87,
+          "age": 25
+        },
+        {
+          "name": "Dayot Upamecano",
+          "pos": "CB",
+          "rating": 85,
+          "age": 27
+        },
+        {
+          "name": "Théo Hernandez",
+          "pos": "LB",
+          "rating": 85,
+          "age": 28
+        },
+        {
+          "name": "Aurélien Tchouaméni",
+          "pos": "CDM",
+          "rating": 85,
+          "age": 26
+        },
+        {
+          "name": "N'Golo Kanté",
+          "pos": "CDM",
+          "rating": 84,
+          "age": 35
+        },
+        {
+          "name": "Antoine Griezmann",
+          "pos": "CAM",
+          "rating": 85,
+          "age": 35
+        },
+        {
+          "name": "Ousmane Dembélé",
+          "pos": "RW",
+          "rating": 85,
+          "age": 29
+        },
+        {
+          "name": "Kylian Mbappé",
+          "pos": "ST",
+          "rating": 92,
+          "age": 27
+        },
+        {
+          "name": "Marcus Thuram",
+          "pos": "LW",
+          "rating": 85,
+          "age": 28
+        }
+      ]
+    },
+    "England": {
+      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "group": "L",
+      "fifa_ranking": 3,
+      "manager": "Lee Carsley",
+      "formation": "4-3-3",
+      "wc_titles": 1,
+      "wc_appearances": 16,
+      "best_result": "Winners 1966",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Jordan Pickford",
+          "pos": "GK",
+          "rating": 83,
+          "age": 32
+        },
+        {
+          "name": "Trent Alexander-Arnold",
+          "pos": "RB",
+          "rating": 86,
+          "age": 27
+        },
+        {
+          "name": "John Stones",
+          "pos": "CB",
+          "rating": 84,
+          "age": 32
+        },
+        {
+          "name": "Harry Maguire",
+          "pos": "CB",
+          "rating": 81,
+          "age": 33
+        },
+        {
+          "name": "Luke Shaw",
+          "pos": "LB",
+          "rating": 81,
+          "age": 30
+        },
+        {
+          "name": "Declan Rice",
+          "pos": "CM",
+          "rating": 87,
+          "age": 27
+        },
+        {
+          "name": "Jude Bellingham",
+          "pos": "CM",
+          "rating": 91,
+          "age": 22
+        },
+        {
+          "name": "Phil Foden",
+          "pos": "CM",
+          "rating": 88,
+          "age": 26
+        },
+        {
+          "name": "Bukayo Saka",
+          "pos": "RW",
+          "rating": 87,
+          "age": 24
+        },
+        {
+          "name": "Harry Kane",
+          "pos": "ST",
+          "rating": 90,
+          "age": 32
+        },
+        {
+          "name": "Marcus Rashford",
+          "pos": "LW",
+          "rating": 82,
+          "age": 28
+        }
+      ]
+    },
+    "Spain": {
+      "flag": "🇪🇸",
+      "group": "H",
+      "fifa_ranking": 4,
+      "manager": "Luis de la Fuente",
+      "formation": "4-3-3",
+      "wc_titles": 1,
+      "wc_appearances": 16,
+      "best_result": "Winners 2010",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Unai Simón",
+          "pos": "GK",
+          "rating": 84,
+          "age": 29
+        },
+        {
+          "name": "Dani Carvajal",
+          "pos": "RB",
+          "rating": 84,
+          "age": 34
+        },
+        {
+          "name": "Aymeric Laporte",
+          "pos": "CB",
+          "rating": 83,
+          "age": 32
+        },
+        {
+          "name": "Robin Le Normand",
+          "pos": "CB",
+          "rating": 82,
+          "age": 28
+        },
+        {
+          "name": "Alejandro Balde",
+          "pos": "LB",
+          "rating": 83,
+          "age": 21
+        },
+        {
+          "name": "Rodri",
+          "pos": "CDM",
+          "rating": 91,
+          "age": 29
+        },
+        {
+          "name": "Pedri",
+          "pos": "CM",
+          "rating": 88,
+          "age": 23
+        },
+        {
+          "name": "Gavi",
+          "pos": "CM",
+          "rating": 86,
+          "age": 21
+        },
+        {
+          "name": "Lamine Yamal",
+          "pos": "RW",
+          "rating": 87,
+          "age": 18
+        },
+        {
+          "name": "Álvaro Morata",
+          "pos": "ST",
+          "rating": 83,
+          "age": 33
+        },
+        {
+          "name": "Nico Williams",
+          "pos": "LW",
+          "rating": 84,
+          "age": 22
+        }
+      ]
+    },
+    "Brazil": {
+      "flag": "🇧🇷",
+      "group": "C",
+      "fifa_ranking": 5,
+      "manager": "Carlo Ancelotti",
+      "formation": "4-2-3-1",
+      "wc_titles": 5,
+      "wc_appearances": 22,
+      "best_result": "Winners 2002",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Alisson",
+          "pos": "GK",
+          "rating": 89,
+          "age": 33
+        },
+        {
+          "name": "Danilo",
+          "pos": "RB",
+          "rating": 81,
+          "age": 34
+        },
+        {
+          "name": "Marquinhos",
+          "pos": "CB",
+          "rating": 85,
+          "age": 31
+        },
+        {
+          "name": "Gabriel Magalhães",
+          "pos": "CB",
+          "rating": 84,
+          "age": 27
+        },
+        {
+          "name": "Renan Lodi",
+          "pos": "LB",
+          "rating": 79,
+          "age": 27
+        },
+        {
+          "name": "Casemiro",
+          "pos": "CDM",
+          "rating": 83,
+          "age": 34
+        },
+        {
+          "name": "Bruno Guimarães",
+          "pos": "CM",
+          "rating": 85,
+          "age": 28
+        },
+        {
+          "name": "Rodrygo",
+          "pos": "RW",
+          "rating": 86,
+          "age": 25
+        },
+        {
+          "name": "Vinicius Jr",
+          "pos": "LW",
+          "rating": 92,
+          "age": 25
+        },
+        {
+          "name": "Raphinha",
+          "pos": "CAM",
+          "rating": 85,
+          "age": 29
+        },
+        {
+          "name": "Endrick",
+          "pos": "ST",
+          "rating": 81,
+          "age": 19
+        }
+      ]
+    },
+    "Portugal": {
+      "flag": "🇵🇹",
+      "group": "K",
+      "fifa_ranking": 6,
+      "manager": "Roberto Martínez",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 8,
+      "best_result": "3rd Place 1966",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Diogo Costa",
+          "pos": "GK",
+          "rating": 84,
+          "age": 26
+        },
+        {
+          "name": "Diogo Dalot",
+          "pos": "RB",
+          "rating": 83,
+          "age": 27
+        },
+        {
+          "name": "Rúben Dias",
+          "pos": "CB",
+          "rating": 89,
+          "age": 28
+        },
+        {
+          "name": "António Silva",
+          "pos": "CB",
+          "rating": 83,
+          "age": 21
+        },
+        {
+          "name": "Nuno Mendes",
+          "pos": "LB",
+          "rating": 84,
+          "age": 24
+        },
+        {
+          "name": "João Palhinha",
+          "pos": "CDM",
+          "rating": 83,
+          "age": 30
+        },
+        {
+          "name": "Vitinha",
+          "pos": "CM",
+          "rating": 84,
+          "age": 26
+        },
+        {
+          "name": "Bernardo Silva",
+          "pos": "CM",
+          "rating": 88,
+          "age": 31
+        },
+        {
+          "name": "Rafael Leão",
+          "pos": "LW",
+          "rating": 87,
+          "age": 26
+        },
+        {
+          "name": "Cristiano Ronaldo",
+          "pos": "ST",
+          "rating": 86,
+          "age": 41
+        },
+        {
+          "name": "Bruno Fernandes",
+          "pos": "RW",
+          "rating": 87,
+          "age": 31
+        }
+      ]
+    },
+    "Belgium": {
+      "flag": "🇧🇪",
+      "group": "G",
+      "fifa_ranking": 7,
+      "manager": "Domenico Tedesco",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 14,
+      "best_result": "3rd Place 2018",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Thibaut Courtois",
+          "pos": "GK",
+          "rating": 90,
+          "age": 34
+        },
+        {
+          "name": "Timothy Castagne",
+          "pos": "RB",
+          "rating": 81,
+          "age": 29
+        },
+        {
+          "name": "Arthur Theate",
+          "pos": "CB",
+          "rating": 81,
+          "age": 24
+        },
+        {
+          "name": "Wout Faes",
+          "pos": "CB",
+          "rating": 80,
+          "age": 27
+        },
+        {
+          "name": "Theo Hernandez",
+          "pos": "LB",
+          "rating": 80,
+          "age": 26
+        },
+        {
+          "name": "Amadou Onana",
+          "pos": "CDM",
+          "rating": 83,
+          "age": 23
+        },
+        {
+          "name": "Youri Tielemans",
+          "pos": "CM",
+          "rating": 82,
+          "age": 28
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "pos": "CAM",
+          "rating": 90,
+          "age": 34
+        },
+        {
+          "name": "Jeremy Doku",
+          "pos": "RW",
+          "rating": 83,
+          "age": 22
+        },
+        {
+          "name": "Romelu Lukaku",
+          "pos": "ST",
+          "rating": 84,
+          "age": 32
+        },
+        {
+          "name": "Leandro Trossard",
+          "pos": "LW",
+          "rating": 83,
+          "age": 30
+        }
+      ]
+    },
+    "Netherlands": {
+      "flag": "🇳🇱",
+      "group": "F",
+      "fifa_ranking": 8,
+      "manager": "Ronald Koeman",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 11,
+      "best_result": "Runners-up 1974",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Mark Flekken",
+          "pos": "GK",
+          "rating": 82,
+          "age": 31
+        },
+        {
+          "name": "Denzel Dumfries",
+          "pos": "RB",
+          "rating": 83,
+          "age": 29
+        },
+        {
+          "name": "Virgil van Dijk",
+          "pos": "CB",
+          "rating": 89,
+          "age": 35
+        },
+        {
+          "name": "Matthijs de Ligt",
+          "pos": "CB",
+          "rating": 84,
+          "age": 26
+        },
+        {
+          "name": "Ian Maatsen",
+          "pos": "LB",
+          "rating": 81,
+          "age": 23
+        },
+        {
+          "name": "Frenkie de Jong",
+          "pos": "CM",
+          "rating": 86,
+          "age": 28
+        },
+        {
+          "name": "Ryan Gravenberch",
+          "pos": "CM",
+          "rating": 83,
+          "age": 23
+        },
+        {
+          "name": "Tijjani Reijnders",
+          "pos": "CM",
+          "rating": 83,
+          "age": 26
+        },
+        {
+          "name": "Xavi Simons",
+          "pos": "CAM",
+          "rating": 85,
+          "age": 23
+        },
+        {
+          "name": "Cody Gakpo",
+          "pos": "ST",
+          "rating": 84,
+          "age": 26
+        },
+        {
+          "name": "Donyell Malen",
+          "pos": "LW",
+          "rating": 82,
+          "age": 26
+        }
+      ]
+    },
+    "Germany": {
+      "flag": "🇩🇪",
+      "group": "E",
+      "fifa_ranking": 9,
+      "manager": "Julian Nagelsmann",
+      "formation": "4-2-3-1",
+      "wc_titles": 4,
+      "wc_appearances": 20,
+      "best_result": "Winners 2014",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Manuel Neuer",
+          "pos": "GK",
+          "rating": 84,
+          "age": 40
+        },
+        {
+          "name": "Joshua Kimmich",
+          "pos": "RB",
+          "rating": 87,
+          "age": 31
+        },
+        {
+          "name": "Antonio Rüdiger",
+          "pos": "CB",
+          "rating": 85,
+          "age": 33
+        },
+        {
+          "name": "Jonathan Tah",
+          "pos": "CB",
+          "rating": 82,
+          "age": 30
+        },
+        {
+          "name": "David Raum",
+          "pos": "LB",
+          "rating": 82,
+          "age": 27
+        },
+        {
+          "name": "İlkay Gündoğan",
+          "pos": "CDM",
+          "rating": 85,
+          "age": 35
+        },
+        {
+          "name": "Robert Andrich",
+          "pos": "CDM",
+          "rating": 81,
+          "age": 30
+        },
+        {
+          "name": "Florian Wirtz",
+          "pos": "CAM",
+          "rating": 88,
+          "age": 22
+        },
+        {
+          "name": "Jamal Musiala",
+          "pos": "CM",
+          "rating": 87,
+          "age": 22
+        },
+        {
+          "name": "Kai Havertz",
+          "pos": "ST",
+          "rating": 85,
+          "age": 26
+        },
+        {
+          "name": "Leroy Sané",
+          "pos": "RW",
+          "rating": 85,
+          "age": 30
+        }
+      ]
+    },
+    "Morocco": {
+      "flag": "🇲🇦",
+      "group": "C",
+      "fifa_ranking": 10,
+      "manager": "Walid Regragui",
+      "formation": "4-1-4-1",
+      "wc_titles": 0,
+      "wc_appearances": 6,
+      "best_result": "Semifinal 2022",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Yassine Bounou",
+          "pos": "GK",
+          "rating": 85,
+          "age": 33
+        },
+        {
+          "name": "Achraf Hakimi",
+          "pos": "RB",
+          "rating": 86,
+          "age": 27
+        },
+        {
+          "name": "Nayef Aguerd",
+          "pos": "CB",
+          "rating": 82,
+          "age": 28
+        },
+        {
+          "name": "Romain Saïss",
+          "pos": "CB",
+          "rating": 79,
+          "age": 35
+        },
+        {
+          "name": "Noussair Mazraoui",
+          "pos": "LB",
+          "rating": 82,
+          "age": 27
+        },
+        {
+          "name": "Sofyan Amrabat",
+          "pos": "CDM",
+          "rating": 83,
+          "age": 29
+        },
+        {
+          "name": "Azzedine Ounahi",
+          "pos": "CM",
+          "rating": 80,
+          "age": 24
+        },
+        {
+          "name": "Hakim Ziyech",
+          "pos": "CAM",
+          "rating": 82,
+          "age": 33
+        },
+        {
+          "name": "Abde Ezzalzouli",
+          "pos": "RW",
+          "rating": 79,
+          "age": 23
+        },
+        {
+          "name": "Youssef En-Nesyri",
+          "pos": "ST",
+          "rating": 82,
+          "age": 28
+        },
+        {
+          "name": "Soufiane Boufal",
+          "pos": "LW",
+          "rating": 79,
+          "age": 30
+        }
+      ]
+    },
+    "USA": {
+      "flag": "🇺🇸",
+      "group": "D",
+      "fifa_ranking": 11,
+      "manager": "Mauricio Pochettino",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 11,
+      "best_result": "3rd Place 1930",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Matt Turner",
+          "pos": "GK",
+          "rating": 79,
+          "age": 31
+        },
+        {
+          "name": "Sergino Dest",
+          "pos": "RB",
+          "rating": 79,
+          "age": 25
+        },
+        {
+          "name": "Chris Richards",
+          "pos": "CB",
+          "rating": 78,
+          "age": 25
+        },
+        {
+          "name": "Miles Robinson",
+          "pos": "CB",
+          "rating": 77,
+          "age": 27
+        },
+        {
+          "name": "Antonee Robinson",
+          "pos": "LB",
+          "rating": 79,
+          "age": 28
+        },
+        {
+          "name": "Tyler Adams",
+          "pos": "CDM",
+          "rating": 79,
+          "age": 26
+        },
+        {
+          "name": "Weston McKennie",
+          "pos": "CM",
+          "rating": 80,
+          "age": 27
+        },
+        {
+          "name": "Yunus Musah",
+          "pos": "CM",
+          "rating": 78,
+          "age": 22
+        },
+        {
+          "name": "Christian Pulisic",
+          "pos": "RW",
+          "rating": 83,
+          "age": 27
+        },
+        {
+          "name": "Ricardo Pepi",
+          "pos": "ST",
+          "rating": 77,
+          "age": 23
+        },
+        {
+          "name": "Gio Reyna",
+          "pos": "LW",
+          "rating": 79,
+          "age": 23
+        }
+      ]
+    },
+    "Uruguay": {
+      "flag": "🇺🇾",
+      "group": "H",
+      "fifa_ranking": 12,
+      "manager": "Marcelo Bielsa",
+      "formation": "4-4-2",
+      "wc_titles": 2,
+      "wc_appearances": 14,
+      "best_result": "Winners 1950",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Sergio Rochet",
+          "pos": "GK",
+          "rating": 80,
+          "age": 30
+        },
+        {
+          "name": "Nahitan Nández",
+          "pos": "RB",
+          "rating": 80,
+          "age": 29
+        },
+        {
+          "name": "Ronald Araújo",
+          "pos": "CB",
+          "rating": 87,
+          "age": 27
+        },
+        {
+          "name": "José Giménez",
+          "pos": "CB",
+          "rating": 84,
+          "age": 31
+        },
+        {
+          "name": "Mathías Olivera",
+          "pos": "LB",
+          "rating": 81,
+          "age": 27
+        },
+        {
+          "name": "Federico Valverde",
+          "pos": "CM",
+          "rating": 87,
+          "age": 27
+        },
+        {
+          "name": "Rodrigo Bentancur",
+          "pos": "CM",
+          "rating": 83,
+          "age": 29
+        },
+        {
+          "name": "Lucas Torreira",
+          "pos": "CDM",
+          "rating": 80,
+          "age": 30
+        },
+        {
+          "name": "Darwin Núñez",
+          "pos": "ST",
+          "rating": 84,
+          "age": 26
+        },
+        {
+          "name": "Luis Suárez",
+          "pos": "ST",
+          "rating": 76,
+          "age": 39
+        },
+        {
+          "name": "Facundo Torres",
+          "pos": "LW",
+          "rating": 80,
+          "age": 24
+        }
+      ]
+    },
+    "Colombia": {
+      "flag": "🇨🇴",
+      "group": "K",
+      "fifa_ranking": 13,
+      "manager": "Néstor Lorenzo",
+      "formation": "4-2-3-1",
+      "wc_titles": 0,
+      "wc_appearances": 6,
+      "best_result": "Quarterfinal 2014",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Camilo Vargas",
+          "pos": "GK",
+          "rating": 79,
+          "age": 35
+        },
+        {
+          "name": "Daniel Muñoz",
+          "pos": "RB",
+          "rating": 79,
+          "age": 28
+        },
+        {
+          "name": "Dávinson Sánchez",
+          "pos": "CB",
+          "rating": 82,
+          "age": 28
+        },
+        {
+          "name": "Carlos Cuesta",
+          "pos": "CB",
+          "rating": 78,
+          "age": 26
+        },
+        {
+          "name": "Johan Mojica",
+          "pos": "LB",
+          "rating": 78,
+          "age": 32
+        },
+        {
+          "name": "Wilmar Barrios",
+          "pos": "CDM",
+          "rating": 79,
+          "age": 31
+        },
+        {
+          "name": "Matheus Uribe",
+          "pos": "CDM",
+          "rating": 78,
+          "age": 33
+        },
+        {
+          "name": "James Rodríguez",
+          "pos": "CAM",
+          "rating": 83,
+          "age": 34
+        },
+        {
+          "name": "Luis Díaz",
+          "pos": "LW",
+          "rating": 86,
+          "age": 28
+        },
+        {
+          "name": "Jhon Durán",
+          "pos": "ST",
+          "rating": 81,
+          "age": 21
+        },
+        {
+          "name": "Cucho Hernández",
+          "pos": "RW",
+          "rating": 80,
+          "age": 25
+        }
+      ]
+    },
+    "Japan": {
+      "flag": "🇯🇵",
+      "group": "F",
+      "fifa_ranking": 14,
+      "manager": "Hajime Moriyasu",
+      "formation": "4-2-3-1",
+      "wc_titles": 0,
+      "wc_appearances": 8,
+      "best_result": "Quarterfinal 2022",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Shuichi Gonda",
+          "pos": "GK",
+          "rating": 76,
+          "age": 32
+        },
+        {
+          "name": "Hiroki Sakai",
+          "pos": "RB",
+          "rating": 78,
+          "age": 35
+        },
+        {
+          "name": "Takehiro Tomiyasu",
+          "pos": "CB",
+          "rating": 79,
+          "age": 26
+        },
+        {
+          "name": "Hiroki Ito",
+          "pos": "CB",
+          "rating": 79,
+          "age": 25
+        },
+        {
+          "name": "Yuto Nagatomo",
+          "pos": "LB",
+          "rating": 75,
+          "age": 39
+        },
+        {
+          "name": "Wataru Endo",
+          "pos": "CDM",
+          "rating": 80,
+          "age": 31
+        },
+        {
+          "name": "Daichi Kamada",
+          "pos": "CM",
+          "rating": 81,
+          "age": 28
+        },
+        {
+          "name": "Ritsu Doan",
+          "pos": "RW",
+          "rating": 80,
+          "age": 26
+        },
+        {
+          "name": "Kaoru Mitoma",
+          "pos": "LW",
+          "rating": 82,
+          "age": 28
+        },
+        {
+          "name": "Takumi Minamino",
+          "pos": "CAM",
+          "rating": 80,
+          "age": 31
+        },
+        {
+          "name": "Ayase Ueda",
+          "pos": "ST",
+          "rating": 77,
+          "age": 27
+        }
+      ]
+    },
+    "Croatia": {
+      "flag": "🇭🇷",
+      "group": "L",
+      "fifa_ranking": 15,
+      "manager": "Zlatko Dalić",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 7,
+      "best_result": "Runners-up 2018",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Dominik Livaković",
+          "pos": "GK",
+          "rating": 83,
+          "age": 29
+        },
+        {
+          "name": "Josip Stanisić",
+          "pos": "RB",
+          "rating": 79,
+          "age": 25
+        },
+        {
+          "name": "Josip Šutalo",
+          "pos": "CB",
+          "rating": 81,
+          "age": 24
+        },
+        {
+          "name": "Duje Ćaleta-Car",
+          "pos": "CB",
+          "rating": 80,
+          "age": 28
+        },
+        {
+          "name": "Borna Sosa",
+          "pos": "LB",
+          "rating": 79,
+          "age": 27
+        },
+        {
+          "name": "Luka Modrić",
+          "pos": "CM",
+          "rating": 84,
+          "age": 40
+        },
+        {
+          "name": "Mateo Kovačić",
+          "pos": "CM",
+          "rating": 84,
+          "age": 31
+        },
+        {
+          "name": "Marcelo Brozović",
+          "pos": "CDM",
+          "rating": 83,
+          "age": 33
+        },
+        {
+          "name": "Ivan Perišić",
+          "pos": "LW",
+          "rating": 80,
+          "age": 37
+        },
+        {
+          "name": "Andrej Kramarić",
+          "pos": "ST",
+          "rating": 82,
+          "age": 35
+        },
+        {
+          "name": "Bruno Petković",
+          "pos": "RW",
+          "rating": 79,
+          "age": 30
+        }
+      ]
+    },
+    "Senegal": {
+      "flag": "🇸🇳",
+      "group": "I",
+      "fifa_ranking": 16,
+      "manager": "Aliou Cissé",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 3,
+      "best_result": "Quarterfinal 2002",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Édouard Mendy",
+          "pos": "GK",
+          "rating": 85,
+          "age": 34
+        },
+        {
+          "name": "Bouna Sarr",
+          "pos": "RB",
+          "rating": 75,
+          "age": 32
+        },
+        {
+          "name": "Kalidou Koulibaly",
+          "pos": "CB",
+          "rating": 83,
+          "age": 34
+        },
+        {
+          "name": "Abdou Diallo",
+          "pos": "CB",
+          "rating": 79,
+          "age": 28
+        },
+        {
+          "name": "Saliou Ciss",
+          "pos": "LB",
+          "rating": 74,
+          "age": 35
+        },
+        {
+          "name": "Idrissa Gueye",
+          "pos": "CDM",
+          "rating": 80,
+          "age": 36
+        },
+        {
+          "name": "Pape Matar Sarr",
+          "pos": "CM",
+          "rating": 79,
+          "age": 22
+        },
+        {
+          "name": "Nampalys Mendy",
+          "pos": "CM",
+          "rating": 77,
+          "age": 33
+        },
+        {
+          "name": "Ismaïla Sarr",
+          "pos": "RW",
+          "rating": 81,
+          "age": 26
+        },
+        {
+          "name": "Sadio Mané",
+          "pos": "ST",
+          "rating": 83,
+          "age": 34
+        },
+        {
+          "name": "Boulaye Dia",
+          "pos": "LW",
+          "rating": 79,
+          "age": 27
+        }
+      ]
+    },
+    "Switzerland": {
+      "flag": "🇨🇭",
+      "group": "B",
+      "fifa_ranking": 17,
+      "manager": "Murat Yakin",
+      "formation": "3-4-3",
+      "wc_titles": 0,
+      "wc_appearances": 12,
+      "best_result": "Quarterfinal 1954",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Yann Sommer",
+          "pos": "GK",
+          "rating": 83,
+          "age": 37
+        },
+        {
+          "name": "Silvan Widmer",
+          "pos": "RB",
+          "rating": 79,
+          "age": 31
+        },
+        {
+          "name": "Manuel Akanji",
+          "pos": "CB",
+          "rating": 85,
+          "age": 30
+        },
+        {
+          "name": "Nico Elvedi",
+          "pos": "CB",
+          "rating": 81,
+          "age": 28
+        },
+        {
+          "name": "Ricardo Rodríguez",
+          "pos": "LB",
+          "rating": 79,
+          "age": 32
+        },
+        {
+          "name": "Granit Xhaka",
+          "pos": "CM",
+          "rating": 83,
+          "age": 33
+        },
+        {
+          "name": "Remo Freuler",
+          "pos": "CM",
+          "rating": 81,
+          "age": 32
+        },
+        {
+          "name": "Denis Zakaria",
+          "pos": "CM",
+          "rating": 80,
+          "age": 29
+        },
+        {
+          "name": "Xherdan Shaqiri",
+          "pos": "RW",
+          "rating": 80,
+          "age": 34
+        },
+        {
+          "name": "Breel Embolo",
+          "pos": "ST",
+          "rating": 80,
+          "age": 29
+        },
+        {
+          "name": "Noah Okafor",
+          "pos": "LW",
+          "rating": 81,
+          "age": 25
+        }
+      ]
+    },
+    "Mexico": {
+      "flag": "🇲🇽",
+      "group": "A",
+      "fifa_ranking": 18,
+      "manager": "Javier Aguirre",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 17,
+      "best_result": "Quarterfinal 1970",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Guillermo Ochoa",
+          "pos": "GK",
+          "rating": 80,
+          "age": 41
+        },
+        {
+          "name": "Jorge Sánchez",
+          "pos": "RB",
+          "rating": 75,
+          "age": 24
+        },
+        {
+          "name": "César Montes",
+          "pos": "CB",
+          "rating": 79,
+          "age": 27
+        },
+        {
+          "name": "Edson Álvarez",
+          "pos": "CB",
+          "rating": 82,
+          "age": 27
+        },
+        {
+          "name": "Jesús Gallardo",
+          "pos": "LB",
+          "rating": 76,
+          "age": 29
+        },
+        {
+          "name": "Carlos Rodríguez",
+          "pos": "CM",
+          "rating": 77,
+          "age": 27
+        },
+        {
+          "name": "Héctor Herrera",
+          "pos": "CM",
+          "rating": 76,
+          "age": 35
+        },
+        {
+          "name": "Orbelín Pineda",
+          "pos": "CAM",
+          "rating": 77,
+          "age": 29
+        },
+        {
+          "name": "Hirving Lozano",
+          "pos": "RW",
+          "rating": 81,
+          "age": 30
+        },
+        {
+          "name": "Raúl Jiménez",
+          "pos": "ST",
+          "rating": 80,
+          "age": 35
+        },
+        {
+          "name": "Henry Martín",
+          "pos": "LW",
+          "rating": 77,
+          "age": 32
+        }
+      ]
+    },
+    "Ecuador": {
+      "flag": "🇪🇨",
+      "group": "E",
+      "fifa_ranking": 19,
+      "manager": "Sebastián Beccacece",
+      "formation": "4-4-2",
+      "wc_titles": 0,
+      "wc_appearances": 4,
+      "best_result": "Round of 16 2006",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Hernán Galíndez",
+          "pos": "GK",
+          "rating": 77,
+          "age": 35
+        },
+        {
+          "name": "Angelo Preciado",
+          "pos": "RB",
+          "rating": 78,
+          "age": 25
+        },
+        {
+          "name": "Piero Hincapié",
+          "pos": "CB",
+          "rating": 82,
+          "age": 23
+        },
+        {
+          "name": "William Pacho",
+          "pos": "CB",
+          "rating": 81,
+          "age": 22
+        },
+        {
+          "name": "Pervis Estupiñán",
+          "pos": "LB",
+          "rating": 82,
+          "age": 26
+        },
+        {
+          "name": "Carlos Gruezo",
+          "pos": "CDM",
+          "rating": 78,
+          "age": 29
+        },
+        {
+          "name": "Moisés Caicedo",
+          "pos": "CM",
+          "rating": 85,
+          "age": 24
+        },
+        {
+          "name": "Jhegson Méndez",
+          "pos": "CM",
+          "rating": 77,
+          "age": 26
+        },
+        {
+          "name": "Gonzalo Plata",
+          "pos": "RW",
+          "rating": 79,
+          "age": 23
+        },
+        {
+          "name": "Enner Valencia",
+          "pos": "ST",
+          "rating": 80,
+          "age": 36
+        },
+        {
+          "name": "Jeremy Sarmiento",
+          "pos": "LW",
+          "rating": 77,
+          "age": 22
+        }
+      ]
+    },
+    "South Korea": {
+      "flag": "🇰🇷",
+      "group": "A",
+      "fifa_ranking": 20,
+      "manager": "Hong Myung-bo",
+      "formation": "4-2-3-1",
+      "wc_titles": 0,
+      "wc_appearances": 11,
+      "best_result": "Semifinal 2002",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Kim Seung-gyu",
+          "pos": "GK",
+          "rating": 78,
+          "age": 35
+        },
+        {
+          "name": "Kim Moon-hwan",
+          "pos": "RB",
+          "rating": 76,
+          "age": 29
+        },
+        {
+          "name": "Kim Min-jae",
+          "pos": "CB",
+          "rating": 87,
+          "age": 28
+        },
+        {
+          "name": "Jung Seung-hyun",
+          "pos": "CB",
+          "rating": 77,
+          "age": 29
+        },
+        {
+          "name": "Kim Jin-su",
+          "pos": "LB",
+          "rating": 76,
+          "age": 32
+        },
+        {
+          "name": "Jung Woo-young",
+          "pos": "CDM",
+          "rating": 78,
+          "age": 34
+        },
+        {
+          "name": "Lee Jae-sung",
+          "pos": "CM",
+          "rating": 79,
+          "age": 32
+        },
+        {
+          "name": "Hwang In-beom",
+          "pos": "CM",
+          "rating": 78,
+          "age": 28
+        },
+        {
+          "name": "Son Heung-min",
+          "pos": "LW",
+          "rating": 87,
+          "age": 34
+        },
+        {
+          "name": "Cho Gue-sung",
+          "pos": "ST",
+          "rating": 78,
+          "age": 26
+        },
+        {
+          "name": "Lee Kang-in",
+          "pos": "RW",
+          "rating": 82,
+          "age": 23
+        }
+      ]
+    },
+    "Norway": {
+      "flag": "🇳🇴",
+      "group": "I",
+      "fifa_ranking": 21,
+      "manager": "Ståle Solbakken",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 3,
+      "best_result": "Quarterfinal 1938",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Ørjan Nyland",
+          "pos": "GK",
+          "rating": 77,
+          "age": 34
+        },
+        {
+          "name": "Omar Elabdellaoui",
+          "pos": "RB",
+          "rating": 77,
+          "age": 33
+        },
+        {
+          "name": "Leo Østigård",
+          "pos": "CB",
+          "rating": 79,
+          "age": 25
+        },
+        {
+          "name": "Andreas Hanche-Olsen",
+          "pos": "CB",
+          "rating": 77,
+          "age": 27
+        },
+        {
+          "name": "Birger Meling",
+          "pos": "LB",
+          "rating": 76,
+          "age": 30
+        },
+        {
+          "name": "Sander Berge",
+          "pos": "CDM",
+          "rating": 80,
+          "age": 28
+        },
+        {
+          "name": "Martin Ødegaard",
+          "pos": "CM",
+          "rating": 88,
+          "age": 27
+        },
+        {
+          "name": "Fredrik Aursnes",
+          "pos": "CM",
+          "rating": 79,
+          "age": 29
+        },
+        {
+          "name": "Antonio Nusa",
+          "pos": "RW",
+          "rating": 79,
+          "age": 20
+        },
+        {
+          "name": "Erling Haaland",
+          "pos": "ST",
+          "rating": 93,
+          "age": 25
+        },
+        {
+          "name": "Alexander Sørloth",
+          "pos": "LW",
+          "rating": 81,
+          "age": 30
+        }
+      ]
+    },
+    "Australia": {
+      "flag": "🇦🇺",
+      "group": "D",
+      "fifa_ranking": 22,
+      "manager": "Tony Popovic",
+      "formation": "4-4-2",
+      "wc_titles": 0,
+      "wc_appearances": 6,
+      "best_result": "Quarterfinal 2006",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Mat Ryan",
+          "pos": "GK",
+          "rating": 80,
+          "age": 33
+        },
+        {
+          "name": "Nathaniel Atkinson",
+          "pos": "RB",
+          "rating": 74,
+          "age": 25
+        },
+        {
+          "name": "Harry Souttar",
+          "pos": "CB",
+          "rating": 80,
+          "age": 26
+        },
+        {
+          "name": "Kye Rowles",
+          "pos": "CB",
+          "rating": 76,
+          "age": 26
+        },
+        {
+          "name": "Aziz Behich",
+          "pos": "LB",
+          "rating": 74,
+          "age": 34
+        },
+        {
+          "name": "Aaron Mooy",
+          "pos": "CM",
+          "rating": 78,
+          "age": 35
+        },
+        {
+          "name": "Riley McGree",
+          "pos": "CM",
+          "rating": 77,
+          "age": 26
+        },
+        {
+          "name": "Jackson Irvine",
+          "pos": "CM",
+          "rating": 76,
+          "age": 32
+        },
+        {
+          "name": "Mathew Leckie",
+          "pos": "RW",
+          "rating": 77,
+          "age": 35
+        },
+        {
+          "name": "Mitchell Duke",
+          "pos": "ST",
+          "rating": 74,
+          "age": 34
+        },
+        {
+          "name": "Marco Tilio",
+          "pos": "LW",
+          "rating": 75,
+          "age": 24
+        }
+      ]
+    },
+    "Tunisia": {
+      "flag": "🇹🇳",
+      "group": "F",
+      "fifa_ranking": 23,
+      "manager": "Jalel Kadri",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 6,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Aymen Dahmen",
+          "pos": "GK",
+          "rating": 77,
+          "age": 28
+        },
+        {
+          "name": "Mohamed Drager",
+          "pos": "RB",
+          "rating": 76,
+          "age": 27
+        },
+        {
+          "name": "Montassar Talbi",
+          "pos": "CB",
+          "rating": 78,
+          "age": 25
+        },
+        {
+          "name": "Dylan Bronn",
+          "pos": "CB",
+          "rating": 77,
+          "age": 29
+        },
+        {
+          "name": "Ali Maaloul",
+          "pos": "LB",
+          "rating": 78,
+          "age": 35
+        },
+        {
+          "name": "Ellyes Skhiri",
+          "pos": "CDM",
+          "rating": 80,
+          "age": 29
+        },
+        {
+          "name": "Aissa Laidouni",
+          "pos": "CM",
+          "rating": 78,
+          "age": 28
+        },
+        {
+          "name": "Hannibal Mejbri",
+          "pos": "CM",
+          "rating": 78,
+          "age": 22
+        },
+        {
+          "name": "Wahbi Khazri",
+          "pos": "CAM",
+          "rating": 79,
+          "age": 34
+        },
+        {
+          "name": "Youssef Msakni",
+          "pos": "LW",
+          "rating": 77,
+          "age": 34
+        },
+        {
+          "name": "Seifeddine Jaziri",
+          "pos": "ST",
+          "rating": 75,
+          "age": 33
+        }
+      ]
+    },
+    "Algeria": {
+      "flag": "🇩🇿",
+      "group": "J",
+      "fifa_ranking": 24,
+      "manager": "Djamel Belmadi",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 4,
+      "best_result": "Round of 16 2014",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Raïs M'Bolhi",
+          "pos": "GK",
+          "rating": 78,
+          "age": 37
+        },
+        {
+          "name": "Aïssa Mandi",
+          "pos": "RB",
+          "rating": 79,
+          "age": 33
+        },
+        {
+          "name": "Djamel Benlamri",
+          "pos": "CB",
+          "rating": 76,
+          "age": 35
+        },
+        {
+          "name": "Ramy Bensebaini",
+          "pos": "LB",
+          "rating": 81,
+          "age": 29
+        },
+        {
+          "name": "Hossam Aouar",
+          "pos": "CM",
+          "rating": 79,
+          "age": 26
+        },
+        {
+          "name": "Nacer Chadli",
+          "pos": "CM",
+          "rating": 75,
+          "age": 36
+        },
+        {
+          "name": "Sofiane Feghouli",
+          "pos": "CM",
+          "rating": 78,
+          "age": 35
+        },
+        {
+          "name": "Ismael Bennacer",
+          "pos": "CDM",
+          "rating": 83,
+          "age": 27
+        },
+        {
+          "name": "Riyad Mahrez",
+          "pos": "RW",
+          "rating": 83,
+          "age": 35
+        },
+        {
+          "name": "Islam Slimani",
+          "pos": "ST",
+          "rating": 77,
+          "age": 37
+        },
+        {
+          "name": "Baghdad Bounedjah",
+          "pos": "LW",
+          "rating": 76,
+          "age": 33
+        }
+      ]
+    },
+    "Sweden": {
+      "flag": "🇸🇪",
+      "group": "F",
+      "fifa_ranking": 25,
+      "manager": "Jon Dahl Tomasson",
+      "formation": "4-4-2",
+      "wc_titles": 0,
+      "wc_appearances": 12,
+      "best_result": "3rd Place 1994",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Robin Olsen",
+          "pos": "GK",
+          "rating": 79,
+          "age": 36
+        },
+        {
+          "name": "Emil Krafth",
+          "pos": "RB",
+          "rating": 75,
+          "age": 30
+        },
+        {
+          "name": "Victor Nilsson Lindelöf",
+          "pos": "CB",
+          "rating": 82,
+          "age": 30
+        },
+        {
+          "name": "Isak Bergmann",
+          "pos": "CB",
+          "rating": 77,
+          "age": 24
+        },
+        {
+          "name": "Ludwig Augustinsson",
+          "pos": "LB",
+          "rating": 78,
+          "age": 30
+        },
+        {
+          "name": "Albin Ekdal",
+          "pos": "CDM",
+          "rating": 77,
+          "age": 35
+        },
+        {
+          "name": "Emil Forsberg",
+          "pos": "CM",
+          "rating": 81,
+          "age": 34
+        },
+        {
+          "name": "Dejan Kulusevski",
+          "pos": "RW",
+          "rating": 83,
+          "age": 25
+        },
+        {
+          "name": "Alexander Isak",
+          "pos": "ST",
+          "rating": 84,
+          "age": 26
+        },
+        {
+          "name": "Viktor Gyökeres",
+          "pos": "ST",
+          "rating": 85,
+          "age": 27
+        },
+        {
+          "name": "Anthony Elanga",
+          "pos": "LW",
+          "rating": 78,
+          "age": 22
+        }
+      ]
+    },
+    "Canada": {
+      "flag": "🇨🇦",
+      "group": "B",
+      "fifa_ranking": 26,
+      "manager": "Jesse Marsch",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 2,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Maxime Crépeau",
+          "pos": "GK",
+          "rating": 77,
+          "age": 30
+        },
+        {
+          "name": "Alistair Johnston",
+          "pos": "RB",
+          "rating": 78,
+          "age": 26
+        },
+        {
+          "name": "Kamal Miller",
+          "pos": "CB",
+          "rating": 77,
+          "age": 28
+        },
+        {
+          "name": "Steven Vitória",
+          "pos": "CB",
+          "rating": 75,
+          "age": 37
+        },
+        {
+          "name": "Sam Adekugbe",
+          "pos": "LB",
+          "rating": 75,
+          "age": 29
+        },
+        {
+          "name": "Stephen Eustáquio",
+          "pos": "CM",
+          "rating": 79,
+          "age": 27
+        },
+        {
+          "name": "Tajon Buchanan",
+          "pos": "CM",
+          "rating": 78,
+          "age": 25
+        },
+        {
+          "name": "Atiba Hutchinson",
+          "pos": "CDM",
+          "rating": 75,
+          "age": 43
+        },
+        {
+          "name": "Alphonso Davies",
+          "pos": "LW",
+          "rating": 87,
+          "age": 25
+        },
+        {
+          "name": "Jonathan David",
+          "pos": "ST",
+          "rating": 83,
+          "age": 24
+        },
+        {
+          "name": "Cyle Larin",
+          "pos": "RW",
+          "rating": 79,
+          "age": 29
+        }
+      ]
+    },
+    "Iran": {
+      "flag": "🇮🇷",
+      "group": "G",
+      "fifa_ranking": 27,
+      "manager": "Amir Ghalenoei",
+      "formation": "4-2-3-1",
+      "wc_titles": 0,
+      "wc_appearances": 6,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Alireza Beiranvand",
+          "pos": "GK",
+          "rating": 80,
+          "age": 32
+        },
+        {
+          "name": "Sadegh Moharrami",
+          "pos": "RB",
+          "rating": 75,
+          "age": 29
+        },
+        {
+          "name": "Morteza Pouraliganji",
+          "pos": "CB",
+          "rating": 77,
+          "age": 33
+        },
+        {
+          "name": "Majid Hosseini",
+          "pos": "CB",
+          "rating": 76,
+          "age": 27
+        },
+        {
+          "name": "Ehsan Hajsafi",
+          "pos": "LB",
+          "rating": 76,
+          "age": 34
+        },
+        {
+          "name": "Saeid Ezatolahi",
+          "pos": "CDM",
+          "rating": 78,
+          "age": 28
+        },
+        {
+          "name": "Ahmad Noorollahi",
+          "pos": "CM",
+          "rating": 76,
+          "age": 29
+        },
+        {
+          "name": "Alireza Jahanbakhsh",
+          "pos": "RW",
+          "rating": 79,
+          "age": 31
+        },
+        {
+          "name": "Mehdi Taremi",
+          "pos": "ST",
+          "rating": 82,
+          "age": 31
+        },
+        {
+          "name": "Sardar Azmoun",
+          "pos": "CF",
+          "rating": 81,
+          "age": 30
+        },
+        {
+          "name": "Ali Gholizadeh",
+          "pos": "LW",
+          "rating": 76,
+          "age": 27
+        }
+      ]
+    },
+    "Czechia": {
+      "flag": "🇨🇿",
+      "group": "A",
+      "fifa_ranking": 28,
+      "manager": "Ivan Hašek",
+      "formation": "4-2-3-1",
+      "wc_titles": 0,
+      "wc_appearances": 9,
+      "best_result": "Runners-up 1934",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Jiří Pavlenka",
+          "pos": "GK",
+          "rating": 80,
+          "age": 33
+        },
+        {
+          "name": "Vladimir Coufal",
+          "pos": "RB",
+          "rating": 79,
+          "age": 32
+        },
+        {
+          "name": "Tomáš Holeš",
+          "pos": "CB",
+          "rating": 77,
+          "age": 31
+        },
+        {
+          "name": "Ladislav Krejčí",
+          "pos": "CB",
+          "rating": 78,
+          "age": 24
+        },
+        {
+          "name": "Jan Bořil",
+          "pos": "LB",
+          "rating": 76,
+          "age": 33
+        },
+        {
+          "name": "Tomáš Souček",
+          "pos": "CM",
+          "rating": 82,
+          "age": 31
+        },
+        {
+          "name": "Lukáš Provod",
+          "pos": "CM",
+          "rating": 77,
+          "age": 27
+        },
+        {
+          "name": "Antonín Barák",
+          "pos": "CAM",
+          "rating": 79,
+          "age": 29
+        },
+        {
+          "name": "Patrik Schick",
+          "pos": "ST",
+          "rating": 83,
+          "age": 30
+        },
+        {
+          "name": "Adam Hložek",
+          "pos": "RW",
+          "rating": 80,
+          "age": 22
+        },
+        {
+          "name": "Ondrej Lingr",
+          "pos": "LW",
+          "rating": 76,
+          "age": 25
+        }
+      ]
+    },
+    "Scotland": {
+      "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+      "group": "C",
+      "fifa_ranking": 29,
+      "manager": "Steve Clarke",
+      "formation": "3-4-3",
+      "wc_titles": 0,
+      "wc_appearances": 8,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Angus Gunn",
+          "pos": "GK",
+          "rating": 77,
+          "age": 29
+        },
+        {
+          "name": "Anthony Ralston",
+          "pos": "RB",
+          "rating": 75,
+          "age": 26
+        },
+        {
+          "name": "Grant Hanley",
+          "pos": "CB",
+          "rating": 76,
+          "age": 33
+        },
+        {
+          "name": "Scott McKenna",
+          "pos": "CB",
+          "rating": 77,
+          "age": 28
+        },
+        {
+          "name": "Andrew Robertson",
+          "pos": "LB",
+          "rating": 85,
+          "age": 32
+        },
+        {
+          "name": "Scott McTominay",
+          "pos": "CM",
+          "rating": 82,
+          "age": 29
+        },
+        {
+          "name": "Callum McGregor",
+          "pos": "CM",
+          "rating": 80,
+          "age": 31
+        },
+        {
+          "name": "John McGinn",
+          "pos": "CM",
+          "rating": 81,
+          "age": 31
+        },
+        {
+          "name": "Ryan Christie",
+          "pos": "RW",
+          "rating": 77,
+          "age": 30
+        },
+        {
+          "name": "Lawrence Shankland",
+          "pos": "ST",
+          "rating": 76,
+          "age": 29
+        },
+        {
+          "name": "Che Adams",
+          "pos": "LW",
+          "rating": 75,
+          "age": 29
+        }
+      ]
+    },
+    "Ivory Coast": {
+      "flag": "🇨🇮",
+      "group": "E",
+      "fifa_ranking": 30,
+      "manager": "Emerse Faé",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 3,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Yahia Fofana",
+          "pos": "GK",
+          "rating": 79,
+          "age": 27
+        },
+        {
+          "name": "Serge Aurier",
+          "pos": "RB",
+          "rating": 78,
+          "age": 32
+        },
+        {
+          "name": "Willy Boly",
+          "pos": "CB",
+          "rating": 79,
+          "age": 33
+        },
+        {
+          "name": "Odilon Kossounou",
+          "pos": "CB",
+          "rating": 79,
+          "age": 24
+        },
+        {
+          "name": "Ghislain Konan",
+          "pos": "LB",
+          "rating": 76,
+          "age": 28
+        },
+        {
+          "name": "Seko Fofana",
+          "pos": "CM",
+          "rating": 82,
+          "age": 29
+        },
+        {
+          "name": "Ibrahim Sangaré",
+          "pos": "CDM",
+          "rating": 80,
+          "age": 26
+        },
+        {
+          "name": "Jean-Michaël Seri",
+          "pos": "CM",
+          "rating": 77,
+          "age": 32
+        },
+        {
+          "name": "Nicolas Pépé",
+          "pos": "RW",
+          "rating": 79,
+          "age": 29
+        },
+        {
+          "name": "Sébastien Haller",
+          "pos": "ST",
+          "rating": 82,
+          "age": 31
+        },
+        {
+          "name": "Simon Adingra",
+          "pos": "LW",
+          "rating": 79,
+          "age": 22
+        }
+      ]
+    },
+    "Ghana": {
+      "flag": "🇬🇭",
+      "group": "L",
+      "fifa_ranking": 31,
+      "manager": "Otto Addo",
+      "formation": "4-2-3-1",
+      "wc_titles": 0,
+      "wc_appearances": 4,
+      "best_result": "Quarterfinal 2010",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Lawrence Ati-Zigi",
+          "pos": "GK",
+          "rating": 78,
+          "age": 27
+        },
+        {
+          "name": "Andrew Ayew",
+          "pos": "RW",
+          "rating": 77,
+          "age": 35
+        },
+        {
+          "name": "Daniel Amartey",
+          "pos": "CB",
+          "rating": 78,
+          "age": 29
+        },
+        {
+          "name": "Alexander Djiku",
+          "pos": "CB",
+          "rating": 77,
+          "age": 29
+        },
+        {
+          "name": "Gideon Mensah",
+          "pos": "LB",
+          "rating": 75,
+          "age": 26
+        },
+        {
+          "name": "Thomas Partey",
+          "pos": "CDM",
+          "rating": 83,
+          "age": 32
+        },
+        {
+          "name": "Salis Abdul Samed",
+          "pos": "CM",
+          "rating": 78,
+          "age": 24
+        },
+        {
+          "name": "Kamaldeen Sulemana",
+          "pos": "LW",
+          "rating": 79,
+          "age": 22
+        },
+        {
+          "name": "Jordan Ayew",
+          "pos": "CF",
+          "rating": 77,
+          "age": 33
+        },
+        {
+          "name": "Antoine Semenyo",
+          "pos": "RW",
+          "rating": 78,
+          "age": 24
+        },
+        {
+          "name": "Inaki Williams",
+          "pos": "ST",
+          "rating": 79,
+          "age": 30
+        }
+      ]
+    },
+    "Austria": {
+      "flag": "🇦🇹",
+      "group": "J",
+      "fifa_ranking": 32,
+      "manager": "Ralf Rangnick",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 7,
+      "best_result": "3rd Place 1954",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Patrick Pentz",
+          "pos": "GK",
+          "rating": 79,
+          "age": 27
+        },
+        {
+          "name": "Stefan Lainer",
+          "pos": "RB",
+          "rating": 78,
+          "age": 32
+        },
+        {
+          "name": "Maximilian Wöber",
+          "pos": "CB",
+          "rating": 80,
+          "age": 26
+        },
+        {
+          "name": "Kevin Danso",
+          "pos": "CB",
+          "rating": 81,
+          "age": 26
+        },
+        {
+          "name": "Philipp Mwene",
+          "pos": "LB",
+          "rating": 76,
+          "age": 30
+        },
+        {
+          "name": "Konrad Laimer",
+          "pos": "CDM",
+          "rating": 82,
+          "age": 27
+        },
+        {
+          "name": "Nicolas Seiwald",
+          "pos": "CM",
+          "rating": 80,
+          "age": 23
+        },
+        {
+          "name": "Marcel Sabitzer",
+          "pos": "CM",
+          "rating": 82,
+          "age": 31
+        },
+        {
+          "name": "Florian Grillitsch",
+          "pos": "CM",
+          "rating": 78,
+          "age": 29
+        },
+        {
+          "name": "Christoph Baumgartner",
+          "pos": "CAM",
+          "rating": 80,
+          "age": 25
+        },
+        {
+          "name": "Michael Gregoritsch",
+          "pos": "ST",
+          "rating": 78,
+          "age": 30
+        }
+      ]
+    },
+    "Paraguay": {
+      "flag": "🇵🇾",
+      "group": "D",
+      "fifa_ranking": 33,
+      "manager": "Daniel Garnero",
+      "formation": "4-4-2",
+      "wc_titles": 0,
+      "wc_appearances": 9,
+      "best_result": "Quarterfinal 2010",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Antony Silva",
+          "pos": "GK",
+          "rating": 76,
+          "age": 38
+        },
+        {
+          "name": "Omar Alderete",
+          "pos": "CB",
+          "rating": 78,
+          "age": 27
+        },
+        {
+          "name": "Gustavo Gómez",
+          "pos": "CB",
+          "rating": 79,
+          "age": 31
+        },
+        {
+          "name": "Junior Alonso",
+          "pos": "CB",
+          "rating": 77,
+          "age": 30
+        },
+        {
+          "name": "Mathías Villasanti",
+          "pos": "CDM",
+          "rating": 77,
+          "age": 26
+        },
+        {
+          "name": "Andrés Cubas",
+          "pos": "CM",
+          "rating": 76,
+          "age": 27
+        },
+        {
+          "name": "Miguel Almirón",
+          "pos": "CM",
+          "rating": 80,
+          "age": 32
+        },
+        {
+          "name": "Ángel Romero",
+          "pos": "RW",
+          "rating": 77,
+          "age": 32
+        },
+        {
+          "name": "Julio Enciso",
+          "pos": "CAM",
+          "rating": 79,
+          "age": 21
+        },
+        {
+          "name": "Antonio Sanabria",
+          "pos": "ST",
+          "rating": 77,
+          "age": 28
+        },
+        {
+          "name": "Óscar Romero",
+          "pos": "LW",
+          "rating": 76,
+          "age": 32
+        }
+      ]
+    },
+    "South Africa": {
+      "flag": "🇿🇦",
+      "group": "A",
+      "fifa_ranking": 34,
+      "manager": "Hugo Broos",
+      "formation": "4-2-3-1",
+      "wc_titles": 0,
+      "wc_appearances": 3,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Ronwen Williams",
+          "pos": "GK",
+          "rating": 78,
+          "age": 32
+        },
+        {
+          "name": "Reeve Frosler",
+          "pos": "RB",
+          "rating": 74,
+          "age": 27
+        },
+        {
+          "name": "Siyanda Xulu",
+          "pos": "CB",
+          "rating": 74,
+          "age": 33
+        },
+        {
+          "name": "Rushine de Reuck",
+          "pos": "CB",
+          "rating": 74,
+          "age": 29
+        },
+        {
+          "name": "Mothobi Mvala",
+          "pos": "LB",
+          "rating": 74,
+          "age": 28
+        },
+        {
+          "name": "Ethan Ntsekhe",
+          "pos": "CDM",
+          "rating": 73,
+          "age": 29
+        },
+        {
+          "name": "Teboho Mokoena",
+          "pos": "CM",
+          "rating": 77,
+          "age": 27
+        },
+        {
+          "name": "Themba Zwane",
+          "pos": "CAM",
+          "rating": 76,
+          "age": 33
+        },
+        {
+          "name": "Percy Tau",
+          "pos": "LW",
+          "rating": 78,
+          "age": 30
+        },
+        {
+          "name": "Evidence Makgopa",
+          "pos": "ST",
+          "rating": 75,
+          "age": 24
+        },
+        {
+          "name": "Lyle Foster",
+          "pos": "RW",
+          "rating": 76,
+          "age": 24
+        }
+      ]
+    },
+    "New Zealand": {
+      "flag": "🇳🇿",
+      "group": "G",
+      "fifa_ranking": 35,
+      "manager": "Darren Bazeley",
+      "formation": "4-4-2",
+      "wc_titles": 0,
+      "wc_appearances": 3,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Oliver Sail",
+          "pos": "GK",
+          "rating": 74,
+          "age": 27
+        },
+        {
+          "name": "Liberato Cacace",
+          "pos": "LB",
+          "rating": 76,
+          "age": 24
+        },
+        {
+          "name": "Winston Reid",
+          "pos": "CB",
+          "rating": 76,
+          "age": 36
+        },
+        {
+          "name": "Nando Pijnaker",
+          "pos": "CB",
+          "rating": 74,
+          "age": 27
+        },
+        {
+          "name": "Callan Elliot",
+          "pos": "CM",
+          "rating": 74,
+          "age": 26
+        },
+        {
+          "name": "Joe Bell",
+          "pos": "CM",
+          "rating": 75,
+          "age": 25
+        },
+        {
+          "name": "Clayton Lewis",
+          "pos": "CM",
+          "rating": 74,
+          "age": 26
+        },
+        {
+          "name": "Marko Stamenic",
+          "pos": "CM",
+          "rating": 74,
+          "age": 22
+        },
+        {
+          "name": "Chris Wood",
+          "pos": "ST",
+          "rating": 79,
+          "age": 34
+        },
+        {
+          "name": "Elijah Just",
+          "pos": "RW",
+          "rating": 73,
+          "age": 24
+        },
+        {
+          "name": "Matthew Garbett",
+          "pos": "LW",
+          "rating": 73,
+          "age": 24
+        }
+      ]
+    },
+    "Iraq": {
+      "flag": "🇮🇶",
+      "group": "I",
+      "fifa_ranking": 36,
+      "manager": "Jesús Casas",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 1,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Jalal Hassan",
+          "pos": "GK",
+          "rating": 74,
+          "age": 34
+        },
+        {
+          "name": "Ali Adnan",
+          "pos": "LB",
+          "rating": 77,
+          "age": 30
+        },
+        {
+          "name": "Rebin Sulaka",
+          "pos": "CB",
+          "rating": 73,
+          "age": 26
+        },
+        {
+          "name": "Salam Shakir",
+          "pos": "CB",
+          "rating": 72,
+          "age": 29
+        },
+        {
+          "name": "Saad Natiq",
+          "pos": "RB",
+          "rating": 72,
+          "age": 27
+        },
+        {
+          "name": "Bashar Resan",
+          "pos": "CDM",
+          "rating": 75,
+          "age": 24
+        },
+        {
+          "name": "Hussein Ali",
+          "pos": "CM",
+          "rating": 73,
+          "age": 26
+        },
+        {
+          "name": "Alaa Abbas",
+          "pos": "CM",
+          "rating": 73,
+          "age": 25
+        },
+        {
+          "name": "Amjed Attwan",
+          "pos": "RW",
+          "rating": 74,
+          "age": 27
+        },
+        {
+          "name": "Aymen Hussein",
+          "pos": "ST",
+          "rating": 76,
+          "age": 27
+        },
+        {
+          "name": "Mohanad Ali",
+          "pos": "LW",
+          "rating": 74,
+          "age": 23
+        }
+      ]
+    },
+    "Cape Verde": {
+      "flag": "🇨🇻",
+      "group": "H",
+      "fifa_ranking": 37,
+      "manager": "Pedro Brito Leitão",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 0,
+      "best_result": "WC Debut",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Josimar Dias",
+          "pos": "GK",
+          "rating": 73,
+          "age": 28
+        },
+        {
+          "name": "Willy Semedo",
+          "pos": "RB",
+          "rating": 74,
+          "age": 27
+        },
+        {
+          "name": "Stopira",
+          "pos": "CB",
+          "rating": 76,
+          "age": 35
+        },
+        {
+          "name": "Roberto Lopes",
+          "pos": "CB",
+          "rating": 75,
+          "age": 29
+        },
+        {
+          "name": "Diney",
+          "pos": "LB",
+          "rating": 73,
+          "age": 28
+        },
+        {
+          "name": "Ryan Mendes",
+          "pos": "CM",
+          "rating": 76,
+          "age": 33
+        },
+        {
+          "name": "Garry Rodrigues",
+          "pos": "RW",
+          "rating": 77,
+          "age": 32
+        },
+        {
+          "name": "Jamiro Monteiro",
+          "pos": "CM",
+          "rating": 76,
+          "age": 30
+        },
+        {
+          "name": "Djaniny",
+          "pos": "ST",
+          "rating": 76,
+          "age": 32
+        },
+        {
+          "name": "Bebé",
+          "pos": "LW",
+          "rating": 74,
+          "age": 33
+        },
+        {
+          "name": "Steven Fortes",
+          "pos": "CDM",
+          "rating": 73,
+          "age": 31
+        }
+      ]
+    },
+    "Türkiye": {
+      "flag": "🇹🇷",
+      "group": "D",
+      "fifa_ranking": 38,
+      "manager": "Vincenzo Montella",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 2,
+      "best_result": "3rd Place 2002",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Altay Bayındır",
+          "pos": "GK",
+          "rating": 79,
+          "age": 27
+        },
+        {
+          "name": "Zeki Çelik",
+          "pos": "RB",
+          "rating": 79,
+          "age": 27
+        },
+        {
+          "name": "Merih Demiral",
+          "pos": "CB",
+          "rating": 82,
+          "age": 27
+        },
+        {
+          "name": "Samet Akaydin",
+          "pos": "CB",
+          "rating": 78,
+          "age": 28
+        },
+        {
+          "name": "Ferdi Kadıoğlu",
+          "pos": "LB",
+          "rating": 81,
+          "age": 24
+        },
+        {
+          "name": "Hakan Çalhanoğlu",
+          "pos": "CM",
+          "rating": 85,
+          "age": 32
+        },
+        {
+          "name": "Salih Özcan",
+          "pos": "CM",
+          "rating": 79,
+          "age": 26
+        },
+        {
+          "name": "Barış Alper Yılmaz",
+          "pos": "RW",
+          "rating": 79,
+          "age": 24
+        },
+        {
+          "name": "Arda Güler",
+          "pos": "CAM",
+          "rating": 82,
+          "age": 19
+        },
+        {
+          "name": "Burak Yılmaz",
+          "pos": "ST",
+          "rating": 76,
+          "age": 40
+        },
+        {
+          "name": "Kerem Aktürkoğlu",
+          "pos": "LW",
+          "rating": 80,
+          "age": 25
+        }
+      ]
+    },
+    "Bosnia": {
+      "flag": "🇧🇦",
+      "group": "B",
+      "fifa_ranking": 39,
+      "manager": "Sergej Barbarez",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 1,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Ibrahim Šehić",
+          "pos": "GK",
+          "rating": 76,
+          "age": 37
+        },
+        {
+          "name": "Sead Kolašinac",
+          "pos": "LB",
+          "rating": 79,
+          "age": 31
+        },
+        {
+          "name": "Ermin Bičakčić",
+          "pos": "CB",
+          "rating": 75,
+          "age": 35
+        },
+        {
+          "name": "Ognjen Vranješ",
+          "pos": "CB",
+          "rating": 76,
+          "age": 35
+        },
+        {
+          "name": "Muhamed Bešić",
+          "pos": "CDM",
+          "rating": 78,
+          "age": 32
+        },
+        {
+          "name": "Miralem Pjanić",
+          "pos": "CM",
+          "rating": 82,
+          "age": 36
+        },
+        {
+          "name": "Haris Hajradinović",
+          "pos": "CM",
+          "rating": 76,
+          "age": 27
+        },
+        {
+          "name": "Edin Džeko",
+          "pos": "ST",
+          "rating": 79,
+          "age": 40
+        },
+        {
+          "name": "Ermedin Demirović",
+          "pos": "ST",
+          "rating": 79,
+          "age": 26
+        },
+        {
+          "name": "Amer Gojak",
+          "pos": "CAM",
+          "rating": 75,
+          "age": 27
+        },
+        {
+          "name": "Amar Rahimić",
+          "pos": "RW",
+          "rating": 73,
+          "age": 26
+        }
+      ]
+    },
+    "Saudi Arabia": {
+      "flag": "🇸🇦",
+      "group": "H",
+      "fifa_ranking": 40,
+      "manager": "Roberto Mancini",
+      "formation": "4-2-3-1",
+      "wc_titles": 0,
+      "wc_appearances": 6,
+      "best_result": "Round of 16 1994",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Mohammed Al-Owais",
+          "pos": "GK",
+          "rating": 79,
+          "age": 33
+        },
+        {
+          "name": "Saud Abdulhamid",
+          "pos": "RB",
+          "rating": 76,
+          "age": 25
+        },
+        {
+          "name": "Ali Al-Bulaihi",
+          "pos": "CB",
+          "rating": 75,
+          "age": 33
+        },
+        {
+          "name": "Abdulelah Al-Amri",
+          "pos": "CB",
+          "rating": 74,
+          "age": 24
+        },
+        {
+          "name": "Yasser Al-Shahrani",
+          "pos": "LB",
+          "rating": 76,
+          "age": 30
+        },
+        {
+          "name": "Mohammed Kanno",
+          "pos": "CDM",
+          "rating": 77,
+          "age": 27
+        },
+        {
+          "name": "Abdulellah Al-Malki",
+          "pos": "CM",
+          "rating": 75,
+          "age": 28
+        },
+        {
+          "name": "Saleh Al-Shehri",
+          "pos": "RW",
+          "rating": 76,
+          "age": 29
+        },
+        {
+          "name": "Salem Al-Dawsari",
+          "pos": "LW",
+          "rating": 79,
+          "age": 32
+        },
+        {
+          "name": "Firas Al-Buraikan",
+          "pos": "ST",
+          "rating": 76,
+          "age": 24
+        },
+        {
+          "name": "Hattan Bahebri",
+          "pos": "CAM",
+          "rating": 75,
+          "age": 27
+        }
+      ]
+    },
+    "Egypt": {
+      "flag": "🇪🇬",
+      "group": "G",
+      "fifa_ranking": 41,
+      "manager": "Hossam Hassan",
+      "formation": "4-2-3-1",
+      "wc_titles": 0,
+      "wc_appearances": 3,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Mohamed El-Shenawy",
+          "pos": "GK",
+          "rating": 79,
+          "age": 36
+        },
+        {
+          "name": "Ahmed Hegazi",
+          "pos": "CB",
+          "rating": 78,
+          "age": 33
+        },
+        {
+          "name": "Omar Kamal",
+          "pos": "CB",
+          "rating": 74,
+          "age": 24
+        },
+        {
+          "name": "Omar Gabaski",
+          "pos": "GK",
+          "rating": 76,
+          "age": 31
+        },
+        {
+          "name": "Ayman Ashraf",
+          "pos": "RB",
+          "rating": 73,
+          "age": 28
+        },
+        {
+          "name": "Amr El-Sulaya",
+          "pos": "CDM",
+          "rating": 75,
+          "age": 26
+        },
+        {
+          "name": "Tarek Hamed",
+          "pos": "CDM",
+          "rating": 76,
+          "age": 34
+        },
+        {
+          "name": "Mohamed Elneny",
+          "pos": "CM",
+          "rating": 78,
+          "age": 33
+        },
+        {
+          "name": "Mohamed Salah",
+          "pos": "RW",
+          "rating": 89,
+          "age": 34
+        },
+        {
+          "name": "Mostafa Mohamed",
+          "pos": "ST",
+          "rating": 78,
+          "age": 27
+        },
+        {
+          "name": "Marwan Hamdy",
+          "pos": "LW",
+          "rating": 75,
+          "age": 25
+        }
+      ]
+    },
+    "Qatar": {
+      "flag": "🇶🇦",
+      "group": "B",
+      "fifa_ranking": 42,
+      "manager": "Marquez Lopez",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 2,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Meshaal Barsham",
+          "pos": "GK",
+          "rating": 74,
+          "age": 25
+        },
+        {
+          "name": "Pedro Miguel",
+          "pos": "LB",
+          "rating": 74,
+          "age": 34
+        },
+        {
+          "name": "Boualem Khoukhi",
+          "pos": "CB",
+          "rating": 75,
+          "age": 33
+        },
+        {
+          "name": "Bassam Al-Rawi",
+          "pos": "CB",
+          "rating": 73,
+          "age": 26
+        },
+        {
+          "name": "Mohammed Waad",
+          "pos": "RB",
+          "rating": 72,
+          "age": 25
+        },
+        {
+          "name": "Karim Boudiaf",
+          "pos": "CDM",
+          "rating": 76,
+          "age": 31
+        },
+        {
+          "name": "Abdulaziz Hatem",
+          "pos": "CM",
+          "rating": 75,
+          "age": 31
+        },
+        {
+          "name": "Hassan Al-Haydos",
+          "pos": "RW",
+          "rating": 76,
+          "age": 33
+        },
+        {
+          "name": "Akram Afif",
+          "pos": "LW",
+          "rating": 79,
+          "age": 28
+        },
+        {
+          "name": "Almoez Ali",
+          "pos": "ST",
+          "rating": 77,
+          "age": 28
+        },
+        {
+          "name": "Assim Madibo",
+          "pos": "CM",
+          "rating": 74,
+          "age": 26
+        }
+      ]
+    },
+    "Uzbekistan": {
+      "flag": "🇺🇿",
+      "group": "K",
+      "fifa_ranking": 43,
+      "manager": "Srecko Katanec",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 0,
+      "best_result": "WC Debut",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Utkir Yusupov",
+          "pos": "GK",
+          "rating": 73,
+          "age": 31
+        },
+        {
+          "name": "Khurshid Makhmudov",
+          "pos": "RB",
+          "rating": 72,
+          "age": 26
+        },
+        {
+          "name": "Sherzod Nasimov",
+          "pos": "CB",
+          "rating": 72,
+          "age": 28
+        },
+        {
+          "name": "Temur Kapadze",
+          "pos": "CB",
+          "rating": 72,
+          "age": 27
+        },
+        {
+          "name": "Dostonbek Khamdamov",
+          "pos": "LB",
+          "rating": 72,
+          "age": 25
+        },
+        {
+          "name": "Otabek Shukurov",
+          "pos": "CDM",
+          "rating": 74,
+          "age": 27
+        },
+        {
+          "name": "Jaloliddin Masharipov",
+          "pos": "CM",
+          "rating": 76,
+          "age": 30
+        },
+        {
+          "name": "Bobur Abdixoliqov",
+          "pos": "CM",
+          "rating": 73,
+          "age": 24
+        },
+        {
+          "name": "Eldor Shomurodov",
+          "pos": "ST",
+          "rating": 79,
+          "age": 28
+        },
+        {
+          "name": "Abbosbek Fayzullaev",
+          "pos": "RW",
+          "rating": 77,
+          "age": 21
+        },
+        {
+          "name": "Otabek Shukurov",
+          "pos": "LW",
+          "rating": 74,
+          "age": 25
+        }
+      ]
+    },
+    "DR Congo": {
+      "flag": "🇨🇩",
+      "group": "K",
+      "fifa_ranking": 44,
+      "manager": "Sébastien Desabre",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 2,
+      "best_result": "Quarterfinal 1974",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Eboué Kouassi",
+          "pos": "GK",
+          "rating": 74,
+          "age": 27
+        },
+        {
+          "name": "Chancel Mbemba",
+          "pos": "CB",
+          "rating": 79,
+          "age": 30
+        },
+        {
+          "name": "Arthur Masuaku",
+          "pos": "LB",
+          "rating": 76,
+          "age": 31
+        },
+        {
+          "name": "Cedric Bakambu",
+          "pos": "ST",
+          "rating": 78,
+          "age": 33
+        },
+        {
+          "name": "Yoane Wissa",
+          "pos": "RW",
+          "rating": 79,
+          "age": 28
+        },
+        {
+          "name": "Dodi Lukebakio",
+          "pos": "LW",
+          "rating": 78,
+          "age": 27
+        },
+        {
+          "name": "Christian Luyindama",
+          "pos": "CB",
+          "rating": 77,
+          "age": 30
+        },
+        {
+          "name": "Silas Wissa",
+          "pos": "CM",
+          "rating": 75,
+          "age": 25
+        },
+        {
+          "name": "Meschack Elia",
+          "pos": "CM",
+          "rating": 75,
+          "age": 26
+        },
+        {
+          "name": "Nathan Landu",
+          "pos": "CDM",
+          "rating": 73,
+          "age": 24
+        },
+        {
+          "name": "Théo Bongonda",
+          "pos": "CAM",
+          "rating": 76,
+          "age": 29
+        }
+      ]
+    },
+    "Panama": {
+      "flag": "🇵🇦",
+      "group": "L",
+      "fifa_ranking": 45,
+      "manager": "Thomas Christiansen",
+      "formation": "4-4-2",
+      "wc_titles": 0,
+      "wc_appearances": 2,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Luis Mejía",
+          "pos": "GK",
+          "rating": 75,
+          "age": 27
+        },
+        {
+          "name": "Édgar Bárcenas",
+          "pos": "RW",
+          "rating": 75,
+          "age": 29
+        },
+        {
+          "name": "Fidel Escobar",
+          "pos": "CB",
+          "rating": 75,
+          "age": 29
+        },
+        {
+          "name": "Harold Cummings",
+          "pos": "CB",
+          "rating": 76,
+          "age": 28
+        },
+        {
+          "name": "Eric Davis",
+          "pos": "LB",
+          "rating": 74,
+          "age": 33
+        },
+        {
+          "name": "Adalberto Carrasquilla",
+          "pos": "CM",
+          "rating": 77,
+          "age": 25
+        },
+        {
+          "name": "Anibal Godoy",
+          "pos": "CDM",
+          "rating": 76,
+          "age": 35
+        },
+        {
+          "name": "Rolando Blackburn",
+          "pos": "ST",
+          "rating": 74,
+          "age": 28
+        },
+        {
+          "name": "Ismael Díaz",
+          "pos": "LW",
+          "rating": 75,
+          "age": 26
+        },
+        {
+          "name": "Cecilio Waterman",
+          "pos": "RW",
+          "rating": 74,
+          "age": 28
+        },
+        {
+          "name": "Álex Rodríguez",
+          "pos": "RB",
+          "rating": 73,
+          "age": 26
+        }
+      ]
+    },
+    "Jordan": {
+      "flag": "🇯🇴",
+      "group": "J",
+      "fifa_ranking": 46,
+      "manager": "Hussein Ammouta",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 0,
+      "best_result": "WC Debut",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Amer Shafi",
+          "pos": "GK",
+          "rating": 74,
+          "age": 38
+        },
+        {
+          "name": "Baha Faisal",
+          "pos": "RB",
+          "rating": 72,
+          "age": 25
+        },
+        {
+          "name": "Bachar Najjar",
+          "pos": "CB",
+          "rating": 72,
+          "age": 27
+        },
+        {
+          "name": "Abdallah Nasib",
+          "pos": "CB",
+          "rating": 72,
+          "age": 26
+        },
+        {
+          "name": "Yazeed Abdelhameed",
+          "pos": "LB",
+          "rating": 71,
+          "age": 25
+        },
+        {
+          "name": "Ahmad Hadhoud",
+          "pos": "CDM",
+          "rating": 73,
+          "age": 26
+        },
+        {
+          "name": "Yazan Al-Arab",
+          "pos": "CM",
+          "rating": 73,
+          "age": 24
+        },
+        {
+          "name": "Musa Al-Taamari",
+          "pos": "LW",
+          "rating": 77,
+          "age": 25
+        },
+        {
+          "name": "Ahmad Dababneh",
+          "pos": "RW",
+          "rating": 73,
+          "age": 26
+        },
+        {
+          "name": "Moussa Al-Taamari",
+          "pos": "ST",
+          "rating": 76,
+          "age": 24
+        },
+        {
+          "name": "Nour Al-Rawabdeh",
+          "pos": "CM",
+          "rating": 72,
+          "age": 25
+        }
+      ]
+    },
+    "Haiti": {
+      "flag": "🇭🇹",
+      "group": "C",
+      "fifa_ranking": 47,
+      "manager": "Marc Collat",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 1,
+      "best_result": "Group Stage",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "James Turbe",
+          "pos": "GK",
+          "rating": 72,
+          "age": 29
+        },
+        {
+          "name": "Zachary Brault-Guillard",
+          "pos": "RB",
+          "rating": 74,
+          "age": 27
+        },
+        {
+          "name": "Mechack Jérome",
+          "pos": "CB",
+          "rating": 73,
+          "age": 33
+        },
+        {
+          "name": "Duckens Nazon",
+          "pos": "ST",
+          "rating": 74,
+          "age": 30
+        },
+        {
+          "name": "Frantzdy Pierrot",
+          "pos": "LW",
+          "rating": 73,
+          "age": 31
+        },
+        {
+          "name": "Wilde-Donald Guerrier",
+          "pos": "RW",
+          "rating": 73,
+          "age": 34
+        },
+        {
+          "name": "Steeven Saba",
+          "pos": "CM",
+          "rating": 72,
+          "age": 27
+        },
+        {
+          "name": "Derrick Étienne Jr",
+          "pos": "CM",
+          "rating": 74,
+          "age": 28
+        },
+        {
+          "name": "Benny Augustin",
+          "pos": "CB",
+          "rating": 71,
+          "age": 25
+        },
+        {
+          "name": "Nésly Jean",
+          "pos": "LB",
+          "rating": 71,
+          "age": 26
+        },
+        {
+          "name": "Ely Mesidor",
+          "pos": "CDM",
+          "rating": 72,
+          "age": 24
+        }
+      ]
+    },
+    "Curaçao": {
+      "flag": "🇨🇼",
+      "group": "E",
+      "fifa_ranking": 48,
+      "manager": "Remko Bicentini",
+      "formation": "4-3-3",
+      "wc_titles": 0,
+      "wc_appearances": 0,
+      "best_result": "WC Debut",
+      "recent_form": [],
+      "players": [
+        {
+          "name": "Eloy Room",
+          "pos": "GK",
+          "rating": 76,
+          "age": 33
+        },
+        {
+          "name": "Jurickson Profar",
+          "pos": "RB",
+          "rating": 73,
+          "age": 32
+        },
+        {
+          "name": "Cuco Martina",
+          "pos": "CB",
+          "rating": 73,
+          "age": 35
+        },
+        {
+          "name": "Rangelo Janga",
+          "pos": "ST",
+          "rating": 74,
+          "age": 29
+        },
+        {
+          "name": "Quíncy Promes",
+          "pos": "RW",
+          "rating": 78,
+          "age": 33
+        },
+        {
+          "name": "Leandro Bacuna",
+          "pos": "CM",
+          "rating": 75,
+          "age": 33
+        },
+        {
+          "name": "Gideon van Drongelen",
+          "pos": "CB",
+          "rating": 73,
+          "age": 27
+        },
+        {
+          "name": "Chedric Bazoer",
+          "pos": "CDM",
+          "rating": 72,
+          "age": 26
+        },
+        {
+          "name": "Etienne Reijnen",
+          "pos": "LB",
+          "rating": 72,
+          "age": 33
+        },
+        {
+          "name": "Shanon van Dijk",
+          "pos": "LW",
+          "rating": 73,
+          "age": 24
+        },
+        {
+          "name": "Ryan Donk",
+          "pos": "CB",
+          "rating": 72,
+          "age": 35
+        }
+      ]
+    }
+  }
+}
