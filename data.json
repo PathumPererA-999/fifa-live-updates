@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T19:31:49Z",
+  "last_updated": "2026-06-11T21:58:14Z",
   "matches": [
     {
       "id": 1,
@@ -10,9 +10,9 @@
       "away_flag": "🇿🇦",
       "group": "A",
       "stage": "group",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 2,
+      "away_score": 0,
       "scorers": []
     },
     {
@@ -1938,6 +1938,33 @@
       "scorers": []
     }
   ],
-  "standings": {},
+  "standings": {
+    "A": [
+      {
+        "team": "Mexico",
+        "flag": "🇲🇽",
+        "p": 1,
+        "w": 1,
+        "d": 0,
+        "l": 0,
+        "gf": 2,
+        "ga": 0,
+        "gd": 2,
+        "pts": 3
+      },
+      {
+        "team": "South Africa",
+        "flag": "🇿🇦",
+        "p": 1,
+        "w": 0,
+        "d": 0,
+        "l": 1,
+        "gf": 0,
+        "ga": 2,
+        "gd": -2,
+        "pts": 0
+      }
+    ]
+  },
   "winner": null
 }
