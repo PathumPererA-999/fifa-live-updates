@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T01:42:07Z",
+  "last_updated": "2026-06-14T06:33:31Z",
   "matches": [
     {
       "id": 1,
@@ -94,7 +94,7 @@
       "away_flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
       "group": "C",
       "stage": "group",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home_score": 0,
       "away_score": 1,
       "scorers": []
@@ -108,9 +108,9 @@
       "away_flag": "🇹🇷",
       "group": "D",
       "stage": "group",
-      "status": "TIMED",
-      "home_score": null,
-      "away_score": null,
+      "status": "FINISHED",
+      "home_score": 2,
+      "away_score": 0,
       "scorers": []
     },
     {
@@ -2053,6 +2053,30 @@
         "pts": 3
       },
       {
+        "team": "Australia",
+        "flag": "🇦🇺",
+        "p": 1,
+        "w": 1,
+        "d": 0,
+        "l": 0,
+        "gf": 2,
+        "ga": 0,
+        "gd": 2,
+        "pts": 3
+      },
+      {
+        "team": "Türkiye",
+        "flag": "🇹🇷",
+        "p": 1,
+        "w": 0,
+        "d": 0,
+        "l": 1,
+        "gf": 0,
+        "ga": 2,
+        "gd": -2,
+        "pts": 0
+      },
+      {
         "team": "Paraguay",
         "flag": "🇵🇾",
         "p": 1,
@@ -2062,6 +2086,32 @@
         "gf": 1,
         "ga": 4,
         "gd": -3,
+        "pts": 0
+      }
+    ],
+    "C": [
+      {
+        "team": "Scotland",
+        "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "p": 1,
+        "w": 1,
+        "d": 0,
+        "l": 0,
+        "gf": 1,
+        "ga": 0,
+        "gd": 1,
+        "pts": 3
+      },
+      {
+        "team": "Haiti",
+        "flag": "🇭🇹",
+        "p": 1,
+        "w": 0,
+        "d": 0,
+        "l": 1,
+        "gf": 0,
+        "ga": 1,
+        "gd": -1,
         "pts": 0
       }
     ]
