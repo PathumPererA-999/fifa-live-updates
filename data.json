@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T16:09:31Z",
+  "last_updated": "2026-06-16T19:54:41Z",
   "matches": [
     {
       "id": 1,
@@ -39,8 +39,8 @@
       "group": "B",
       "stage": "group",
       "status": "FINISHED",
-      "home_score": null,
-      "away_score": null,
+      "home_score": 1,
+      "away_score": 1,
       "scorers": []
     },
     {
@@ -1991,6 +1991,30 @@
     ],
     "B": [
       {
+        "team": "Canada",
+        "flag": "🇨🇦",
+        "p": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0,
+        "gf": 1,
+        "ga": 1,
+        "gd": 0,
+        "pts": 1
+      },
+      {
+        "team": "Bosnia-Herzegovina",
+        "flag": "🏳",
+        "p": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0,
+        "gf": 1,
+        "ga": 1,
+        "gd": 0,
+        "pts": 1
+      },
+      {
         "team": "Qatar",
         "flag": "🇶🇦",
         "p": 1,
@@ -2011,30 +2035,6 @@
         "l": 0,
         "gf": 1,
         "ga": 1,
-        "gd": 0,
-        "pts": 1
-      },
-      {
-        "team": "Canada",
-        "flag": "🇨🇦",
-        "p": 1,
-        "w": 0,
-        "d": 1,
-        "l": 0,
-        "gf": 0,
-        "ga": 0,
-        "gd": 0,
-        "pts": 1
-      },
-      {
-        "team": "Bosnia-Herzegovina",
-        "flag": "🏳",
-        "p": 1,
-        "w": 0,
-        "d": 1,
-        "l": 0,
-        "gf": 0,
-        "ga": 0,
         "gd": 0,
         "pts": 1
       }
