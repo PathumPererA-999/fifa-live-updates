@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T06:51:37Z",
+  "last_updated": "2026-06-26T10:19:59Z",
   "matches": [
     {
       "id": 1,
@@ -1970,7 +1970,7 @@
       "utc": "2026-07-02T00:00:00Z",
       "home": "USA",
       "home_flag": "🇺🇸",
-      "away": "Bosnia-Herzegovina",
+      "away": null,
       "away_flag": "🏳",
       "group": null,
       "stage": "r32",
