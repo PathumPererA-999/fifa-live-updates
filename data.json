@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T04:32:13Z",
+  "last_updated": "2026-06-27T07:45:20Z",
   "matches": [
     {
       "id": 1,
@@ -2054,6 +2054,20 @@
       "utc": "2026-07-03T18:00:00Z",
       "home": "Australia",
       "home_flag": "🇦🇺",
+      "away": null,
+      "away_flag": "🏳",
+      "group": null,
+      "stage": "r32",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "scorers": []
+    },
+    {
+      "id": 537424,
+      "utc": "2026-06-30T17:00:00Z",
+      "home": "Ivory Coast",
+      "home_flag": "🇨🇮",
       "away": null,
       "away_flag": "🏳",
       "group": null,
