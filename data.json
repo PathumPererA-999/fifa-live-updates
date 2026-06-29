@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T02:57:37Z",
+  "last_updated": "2026-06-29T08:13:54Z",
   "matches": [
     {
       "id": 1,
@@ -2156,6 +2156,20 @@
       "away_flag": "🇬🇭",
       "group": null,
       "stage": "r32",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "scorers": []
+    },
+    {
+      "id": 537376,
+      "utc": "2026-07-04T17:00:00Z",
+      "home": "Canada",
+      "home_flag": "🇨🇦",
+      "away": null,
+      "away_flag": "🏳",
+      "group": null,
+      "stage": "r16",
       "status": "TIMED",
       "home_score": null,
       "away_score": null,
