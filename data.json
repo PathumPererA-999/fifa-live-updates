@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T04:04:31Z",
+  "last_updated": "2026-06-30T08:05:29Z",
   "matches": [
     {
       "id": 1,
@@ -2166,6 +2166,34 @@
       "utc": "2026-07-04T17:00:00Z",
       "home": "Canada",
       "home_flag": "🇨🇦",
+      "away": "Morocco",
+      "away_flag": "🇲🇦",
+      "group": null,
+      "stage": "r16",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "scorers": []
+    },
+    {
+      "id": 537375,
+      "utc": "2026-07-04T21:00:00Z",
+      "home": "Paraguay",
+      "home_flag": "🇵🇾",
+      "away": null,
+      "away_flag": "🏳",
+      "group": null,
+      "stage": "r16",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "scorers": []
+    },
+    {
+      "id": 537377,
+      "utc": "2026-07-05T20:00:00Z",
+      "home": "Brazil",
+      "home_flag": "🇧🇷",
       "away": null,
       "away_flag": "🏳",
       "group": null,
