@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T05:54:52Z",
+  "last_updated": "2026-07-02T08:48:59Z",
   "matches": [
     {
       "id": 1,
@@ -2215,6 +2215,34 @@
       "status": "FINISHED",
       "home_score": 2,
       "away_score": 0,
+      "scorers": []
+    },
+    {
+      "id": 537378,
+      "utc": "2026-07-06T00:00:00Z",
+      "home": "Mexico",
+      "home_flag": "🇲🇽",
+      "away": "England",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "group": null,
+      "stage": "r16",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "scorers": []
+    },
+    {
+      "id": 537380,
+      "utc": "2026-07-07T00:00:00Z",
+      "home": "USA",
+      "home_flag": "🇺🇸",
+      "away": "Belgium",
+      "away_flag": "🇧🇪",
+      "group": null,
+      "stage": "r16",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
       "scorers": []
     }
   ],
