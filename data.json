@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T04:49:49Z",
+  "last_updated": "2026-07-06T08:57:20Z",
   "matches": [
     {
       "id": 1,
@@ -2313,6 +2313,20 @@
       "status": "FINISHED",
       "home_score": 2,
       "away_score": 3,
+      "scorers": []
+    },
+    {
+      "id": 537385,
+      "utc": "2026-07-11T21:00:00Z",
+      "home": "Norway",
+      "home_flag": "🇳🇴",
+      "away": "England",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "group": null,
+      "stage": "qf",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
       "scorers": []
     }
   ],
