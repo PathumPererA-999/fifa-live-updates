@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T05:35:33Z",
+  "last_updated": "2026-07-08T08:18:32Z",
   "matches": [
     {
       "id": 1,
@@ -2336,6 +2336,20 @@
       "home_flag": "🇪🇸",
       "away": "Belgium",
       "away_flag": "🇧🇪",
+      "group": null,
+      "stage": "qf",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "scorers": []
+    },
+    {
+      "id": 537386,
+      "utc": "2026-07-12T01:00:00Z",
+      "home": "Argentina",
+      "home_flag": "🇦🇷",
+      "away": "Switzerland",
+      "away_flag": "🇨🇭",
       "group": null,
       "stage": "qf",
       "status": "TIMED",
