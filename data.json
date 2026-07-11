@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T05:25:20Z",
+  "last_updated": "2026-07-11T07:23:26Z",
   "matches": [
     {
       "id": 1,
@@ -2362,8 +2362,8 @@
       "utc": "2026-07-14T19:00:00Z",
       "home": "France",
       "home_flag": "🇫🇷",
-      "away": null,
-      "away_flag": "🏳",
+      "away": "Spain",
+      "away_flag": "🇪🇸",
       "group": null,
       "stage": "sf",
       "status": "TIMED",
