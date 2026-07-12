@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T04:49:29Z",
+  "last_updated": "2026-07-12T07:26:22Z",
   "matches": [
     {
       "id": 1,
@@ -2310,7 +2310,7 @@
       "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "group": null,
       "stage": "r16",
-      "status": "2026-07-06 01:00:00Z",
+      "status": "FINISHED",
       "home_score": 2,
       "away_score": 3,
       "scorers": []
@@ -2364,6 +2364,20 @@
       "home_flag": "🇫🇷",
       "away": "Spain",
       "away_flag": "🇪🇸",
+      "group": null,
+      "stage": "sf",
+      "status": "TIMED",
+      "home_score": null,
+      "away_score": null,
+      "scorers": []
+    },
+    {
+      "id": 537388,
+      "utc": "2026-07-15T19:00:00Z",
+      "home": "England",
+      "home_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "away": "Argentina",
+      "away_flag": "🇦🇷",
       "group": null,
       "stage": "sf",
       "status": "TIMED",
