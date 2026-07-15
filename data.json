@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T20:31:23Z",
+  "last_updated": "2026-07-15T21:54:39Z",
   "matches": [
     {
       "id": 1,
@@ -2380,9 +2380,9 @@
       "away_flag": "🇦🇷",
       "group": null,
       "stage": "sf",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "home_score": 1,
-      "away_score": 0,
+      "away_score": 2,
       "scorers": []
     },
     {
