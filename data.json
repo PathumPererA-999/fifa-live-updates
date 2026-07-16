@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T05:23:49Z",
+  "last_updated": "2026-07-16T07:35:03Z",
   "matches": [
     {
       "id": 1,
@@ -2390,8 +2390,8 @@
       "utc": "2026-07-18T21:00:00Z",
       "home": "France",
       "home_flag": "🇫🇷",
-      "away": null,
-      "away_flag": "🏳",
+      "away": "England",
+      "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "group": null,
       "stage": "bronze",
       "status": "TIMED",
@@ -2404,8 +2404,8 @@
       "utc": "2026-07-19T19:00:00Z",
       "home": "Spain",
       "home_flag": "🇪🇸",
-      "away": null,
-      "away_flag": "🏳",
+      "away": "Argentina",
+      "away_flag": "🇦🇷",
       "group": null,
       "stage": "final",
       "status": "TIMED",
