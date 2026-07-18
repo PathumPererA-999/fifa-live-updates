@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T22:13:13Z",
+  "last_updated": "2026-07-18T23:24:21Z",
   "matches": [
     {
       "id": 1,
@@ -2394,9 +2394,9 @@
       "away_flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "group": null,
       "stage": "bronze",
-      "status": "PAUSED",
-      "home_score": 0,
-      "away_score": 4,
+      "status": "FINISHED",
+      "home_score": 4,
+      "away_score": 6,
       "scorers": []
     },
     {
